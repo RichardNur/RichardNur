@@ -1,16 +1,16 @@
-## Hi there 👋
+Medical Product Manager and AI Engineer holding a M.Sc. in Radiological Technologies and 6+ years of Healthcare experience. Passionate about advancing medical imaging and AI to improve healthcare systems through the development and optimization of AI-driven Radiology solutions. Certified Radiology Technician, seeking Product Manager roles in forward-thinking, innovation-driven teams.
 
-<!--
-**RichardNur/RichardNur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Skills & Proficiencies:
 
-Here are some ideas to get you started:
+Medical Imaging & Informatics:
+DICOM • CT, MRI, Radiography, Ultrasound • Nuclear Medicine • PACS/RIS • Digital Post Processing • Reporting Standards • QA & Compliance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI & Software Engineering:
+Python • TensorFlow • Keras • LLMs • NLP • OOP • RESTful APIs • Flask • Node.js • SQL • MongoDB • Docker • Git • Linux
+
+Product & Clinical Expertise:
+Product Lifecycle Management • Agile Methodologies • Regulatory Documentation (CE/FDA) • Workflow Optimization • Cross-Functional Collaboration • Technical Writing • Patient-Centered Design
+
+⸻
+
+📌 Open to opportunities in AI Product Management, Medical Imaging Innovation, and Healthcare Technology Leadership roles where I can help teams create meaningful, impactful, and scalable solutions.
