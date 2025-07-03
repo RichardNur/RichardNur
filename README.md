@@ -1,4 +1,4 @@
-Medical Product Manager and AI Engineer holding a M.Sc. in Radiological Technologies and 6+ years of Healthcare experience. Passionate about advancing medical imaging and AI to improve healthcare systems through the development and optimization of AI-driven Radiology solutions. Certified Radiology Technician, seeking Product Manager roles in forward-thinking, innovation-driven teams.
+Medical Deployment Engineer and AI Engineer holding a M.Sc. in Radiological Technologies and 6+ years of Healthcare experience. Passionate about advancing medical imaging and AI to improve healthcare systems through the development and optimization of AI-driven Radiology solutions. Certified Radiological Technician and Software Engineer.
 
 🛠 Skills & Proficiencies:
 
